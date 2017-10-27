@@ -1,0 +1,79 @@
+a:link{
+    text-decoration:none;
+    color:white;
+}
+
+a:active {
+    text-decoration:none;
+    color:white;
+}
+
+a:visited {
+    text-decoration:none;
+    color:white;
+}
+
+footer {
+    margin-top: 70px;
+}
+
+#foot {
+    padding-top: 20px;
+    height: 150px;
+}
+
+#nav-params {
+    padding-top: 12px;
+    font-size: 18px;
+    margin-left: 10px;
+    display: inline !important;
+}
+
+.nav-title {
+    margin-left: 20px;
+    padding-top: 10px;
+    float: left;
+}
+
+.nav-tools {
+    margin-right: 20px;
+    padding-top: 10px;
+    float: right;
+}
+
+.nav-options {
+    margin-left: 30px;
+}
+
+.presentation {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.presentation h1 {
+    color: #428bca;
+}
+
+.img-one {
+    max-height: 500px;
+    max-width: 500px;
+}
+
+.img-two {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    max-height: 240px;
+    max-width: 300px;
+}
+
+.content {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+}

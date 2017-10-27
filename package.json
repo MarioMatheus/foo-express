@@ -1,0 +1,19 @@
+{
+  "name": "web-service",
+  "version": "0.0.1",
+  "description": "learning how make a web service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-service",
+    "rest",
+    "restful"
+  ],
+  "author": "mario",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
